@@ -1,0 +1,4 @@
+dmd_trial/bin
+dmd_trial/include
+dmd_trial/lib
+dmd_trial/pyenv.cfg
